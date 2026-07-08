@@ -65,31 +65,6 @@ All practical images were documented during postgraduate laboratory work.
 
 ---
 
-## 📂 Repository Structure
-
-```
-Comparative-Neuroanatomy-Rat-vs-Fish-Brain/
-│
-├── README.md
-├── docs/
-│   └── Comparative_Neuroanatomy_Rat_vs_Fish_Brain.pdf
-├── images/
-│   ├── rat_brain_dorsal.jpg
-│   ├── rat_brain_ventral.jpg
-│   ├── rat_brain_sketch.jpg
-│   ├── fish_brain.jpg
-│   ├── fish_brain_labelled.jpg
-│   └── rat_dissection.jpg
-└── LICENSE
-```
-
----
-
-## 📄 Full Report
-
-The complete project report is available in the **docs** folder.
-
----
 
 ## 🛠️ Skills Demonstrated
 

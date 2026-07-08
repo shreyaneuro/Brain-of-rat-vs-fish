@@ -1,32 +1,128 @@
-# Brain-of-rat-vs-fish
-# Comparative Brain Analysis: Fish vs Rat
+# 🧠 Comparative Neuroanatomy of Rat and Fish Brain
 
-## Overview
-This project explores structural and functional differences between the brains of fish and rats using a comparative neuroscience approach. The goal is to understand how brain organization varies across species and how conserved neural features relate to behavior and evolution.
+A comparative study of the anatomical organization, functional specialization, and evolutionary significance of the rat and fish brain based on postgraduate laboratory practical work.
 
-## Objective
-- To compare major brain regions in fish and rat models
-- To understand evolutionary conservation and divergence in neural structures
-- To build a systems-level perspective on brain organization across species
+---
 
-## Approach
-- Literature-based comparison of neuroanatomical structures
-- Review of functional roles associated with different brain regions
-- Comparative interpretation focusing on sensory processing, motor control, and cognition
+## 📖 Overview
 
-## Current Status
-🟡 Ongoing / exploratory  
-This project is currently focused on literature analysis and conceptual comparison.
+This project presents a comparative analysis of the rat and fish brain to understand how vertebrate nervous systems have evolved in response to different environmental and behavioral demands. It combines theoretical knowledge with practical laboratory observations, anatomical sketches, and specimen photographs.
 
-## What I Learned
-- Differences and similarities in vertebrate brain organization
-- How comparative biology helps in understanding conserved neural mechanisms
-- Improved ability to interpret neuroanatomical literature across species
+The study examines major brain regions, compares their functions, discusses evolutionary adaptations, and highlights the importance of these animal models in modern neuroscience research.
 
-## Future Scope
-- Visualization of comparative brain regions
-- Extension to additional vertebrate models
-- Integration with developmental neuroscience perspectives
+---
 
-## Disclaimer
-This is a learning-focused project and not intended as a comprehensive or finalized comparative analysis.
+## 🎯 Objectives
+
+- Compare the gross anatomy of rat and fish brains.
+- Identify major neuroanatomical structures.
+- Understand functional adaptations of different brain regions.
+- Explore the evolutionary development of vertebrate brains.
+- Discuss the applications of rat and fish models in neuroscience research.
+
+---
+
+## 🔬 Contents
+
+- Introduction
+- Materials and Methods
+- Healthy Rat Brain Anatomy
+- Healthy Fish Brain Anatomy
+- Comparative Anatomy
+- Functional Comparison
+- Evolutionary Perspective
+- Applications in Neuroscience
+- Limitations
+- Conclusion
+- References
+
+---
+
+## 🧪 Practical Experience
+
+This project is based on laboratory practical sessions completed during my Master's degree in Zoology. It includes:
+
+- Rat brain dissection
+- Fish brain dissection
+- Identification of major neuroanatomical structures
+- Comparative anatomical observations
+- Hand-drawn anatomical sketches
+- Photographic documentation of specimens
+
+---
+
+## 🖼️ Project Figures
+
+The repository includes:
+
+- Rat brain (dorsal view)
+- Rat brain (ventral view)
+- Fish brain specimen
+- Comparative anatomical photographs
+- Hand-drawn labelled brain diagrams
+
+All practical images were documented during postgraduate laboratory work.
+
+---
+
+## 📂 Repository Structure
+
+```
+Comparative-Neuroanatomy-Rat-vs-Fish-Brain/
+│
+├── README.md
+├── docs/
+│   └── Comparative_Neuroanatomy_Rat_vs_Fish_Brain.pdf
+├── images/
+│   ├── rat_brain_dorsal.jpg
+│   ├── rat_brain_ventral.jpg
+│   ├── rat_brain_sketch.jpg
+│   ├── fish_brain.jpg
+│   ├── fish_brain_labelled.jpg
+│   └── rat_dissection.jpg
+└── LICENSE
+```
+
+---
+
+## 📄 Full Report
+
+The complete project report is available in the **docs** folder.
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Comparative Neuroanatomy
+- Vertebrate Anatomy
+- Brain Dissection
+- Laboratory Documentation
+- Scientific Writing
+- Comparative Analysis
+- Evolutionary Neuroscience
+- Biomedical Research Concepts
+
+---
+
+## 📚 References
+
+The project is supported by standard neuroscience textbooks and peer-reviewed scientific literature cited in APA 7th edition format.
+
+---
+
+## 👩‍🔬 Author
+
+**Shreya Shankar**
+
+M.Sc. Zoology
+
+Interest Areas:
+- Neuroscience
+- Neuroanatomy
+- Neurodegenerative Diseases
+- Comparative Anatomy
+- Biomedical Research
+
+---
+
+*This repository was developed as an academic neuroscience portfolio project to demonstrate practical laboratory experience and scientific understanding of comparative vertebrate neuroanatomy.*
